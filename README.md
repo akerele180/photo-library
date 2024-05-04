@@ -1,27 +1,19 @@
-# Photo Library Starter
+# Photo Library App
 
-Hey freeCodeCamp 👋 this is your starting point for digging into building your own Photo Library using Next.js and Cloudinary.
+Hey guys 👋 this Photo Library App is built using Next.js and Cloudinary. 
+
+Note: It is a tutorial follow-up with a touch of my ingenuity.
 
 ## 🚀 Getting Started
 
 To get started, first create your new application by running the command below:
 
 ```
-npx create-next-app@latest -e https://github.com/colbyfayock/demo-photo-library-starter my-photo-library
+npx create-next-app@latest -e https://github.com/akerele180/photo-library.git my-photo-library
 ```
 
 > Tip: Alternatively, you can clone this repository, but running the above command helps with some additional tasks like resetting git history and installing dependencies!
 
-## Follow Along
+## Contact
 
-Coming here from another place? Be sure to follow along with the tutorial over on freeCodeCamp:
-- Video:
-- Article: 
-
-## More Tutorials & Walkthroughs
-
-🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
-
-📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
-
-✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
+You can reach out to me via my portfolio: https://tosinakerele.netlify.app
